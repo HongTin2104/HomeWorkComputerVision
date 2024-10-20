@@ -3,7 +3,7 @@ import numpy as np
 from skimage import color, filters
 import matplotlib.pyplot as plt
 from skimage import io
-import cv as cv
+import cv2 as cv
 
 
 # %% [markdown]
